@@ -1,1 +1,19 @@
+main {
+    position: fixed;
+    top: 10vh;
+    left: 5vw;
+    width: 90vw;
+    height: 80vh;
 
+    background-color: whitesmoke;
+    border-radius: 25px;
+    border: solid black 2px;
+}
+body { background-color: gainsboro;}
+
+main #result  {
+    background-color: grey;
+    width: 10%;
+    height: 10%;
+    
+}
